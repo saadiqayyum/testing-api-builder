@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "math_agent": "./agents/math_agent/graph.py:graph"
+  }
+}
