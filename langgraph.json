@@ -1,6 +1,5 @@
 {
-  "dependencies": ["."],
   "graphs": {
-    "math_agent": "./graph.py:graph"
+    "dedup": "./agents/dedup/graph.py:graph"
   }
 }
