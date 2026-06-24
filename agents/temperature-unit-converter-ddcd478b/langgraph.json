@@ -1,0 +1,6 @@
+{
+  "graphs": {
+    "celsius_to_fahrenheit": "./graph.py:graph"
+  },
+  "dependencies": ["./requirements.txt"]
+}
