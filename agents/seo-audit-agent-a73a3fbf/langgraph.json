@@ -1,0 +1,11 @@
+{
+  "graphs": {
+    "seo_audit": "./graph.py:graph"
+  },
+  "env": {
+    "OPENAI_API_KEY": "OPENAI_API_KEY",
+    "OPENAI_MODEL": "OPENAI_MODEL"
+  },
+  "python_version": "3.11",
+  "dependencies": ["./requirements.txt"]
+}
